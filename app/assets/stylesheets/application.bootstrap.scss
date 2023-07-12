@@ -1,0 +1,14 @@
+@import 'bootstrap/scss/bootstrap';
+@import 'bootstrap-icons/font/bootstrap-icons';
+#Card{
+    display: grid;
+    justify-content: center;
+    place-items: center;
+    width: 50rem; 
+    border-style: none;
+}
+#title{
+    font-size: 50px;
+    font-family: monospace;
+    font-variant: petite-caps;
+}
